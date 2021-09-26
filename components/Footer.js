@@ -1,8 +1,7 @@
 import React from "react";
 import { FaGithubAlt, FaLinkedin, FaInstagram } from "react-icons/fa";
 import Link from "next/link";
-
-import { IoIosArrowDropupCircle, IoIosArrowUp } from "react-icons/io";
+import { IoIosArrowUp } from "react-icons/io";
 function Footer() {
   return (
     <div className="">
@@ -29,7 +28,7 @@ function Footer() {
             <a href="https://www.linkedin.com/in/lihaowang98/">
               <FaLinkedin className="mx-2 hover:text-gray-800" />
             </a>
-            <a href="https://www.linkedin.com/in/lihaowang98/">
+            <a href="https://www.instagram.com/llleowang/">
               <FaInstagram className="mx-2 hover:text-gray-800" />
             </a>
           </div>

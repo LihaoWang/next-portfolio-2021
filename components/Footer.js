@@ -2,6 +2,7 @@ import React from "react";
 import { FaGithubAlt, FaLinkedin, FaInstagram } from "react-icons/fa";
 import Link from "next/link";
 import { IoIosArrowUp } from "react-icons/io";
+
 function Footer() {
   return (
     <div className="">
@@ -18,8 +19,8 @@ function Footer() {
             Made with
             <span role="img" aria-label="love">
               ❤️
-            </span>
-            {"    "}by Leo. 2021.
+            </span>{" "}
+            by Leo. 2021.
           </p>
           <div className="flex flex-row text-3xl text-gray-400 mt-5">
             <a href="https://github.com/LihaoWang">

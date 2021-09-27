@@ -4,7 +4,7 @@ function Hero() {
   return (
     <div className="flex flex-col justify-center items-center mb-20 mt-10">
       <img className="max-w-full w-40" src="avatar.png" alt="" />
-      <div className="flex flex-col justify-start items-start mt-5">
+      <div className="flex flex-col justify-start items-start mt-5 max-w-xl">
         <p className="text-xl text-gray-500 tracking-wider font-bold">
           HI I&apos;M LEO{" "}
         </p>
@@ -14,7 +14,10 @@ function Hero() {
         <h1 className="text-3xl font-medium  ">
           Second-year Master&apos;s at NYU
         </h1>
-        <p className="text-xl text-gray-500 ">I specialized in ... </p>
+        <p className="text-xl text-gray-500 ">
+          I specialize in developing minimal web applications that solves real
+          world problems{" "}
+        </p>
       </div>
     </div>
   );

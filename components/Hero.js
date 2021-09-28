@@ -8,10 +8,10 @@ function Hero() {
         <p className="text-xl text-gray-500 tracking-wider font-bold">
           HI I&apos;M LEO{" "}
         </p>
-        <h1 className="text-3xl font-medium  ">
+        <h1 className="text-4xl font-medium  ">
           Software Engineer / Web Designer
         </h1>
-        <h1 className="text-3xl font-medium  ">
+        <h1 className="text-4xl font-medium ">
           Second-year Master&apos;s at NYU
         </h1>
         <p className="text-xl text-gray-500 ">

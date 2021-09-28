@@ -19,7 +19,7 @@ export default function Home() {
           <Hero />
           <Projects />
         </div>
-        <Footer />
+        <Footer href="/" />
       </main>
     </div>
   );

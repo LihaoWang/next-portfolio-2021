@@ -17,7 +17,7 @@ function Footer({ href }) {
 
           <p className="text-gray-400">
             Made with
-            <span role="img" aria-label="love">
+            <span className="mx-1" role="img" aria-label="love">
               ❤️
             </span>
             by Leo. 2021.

@@ -2,9 +2,9 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="flex flex-col justify-center items-center mb-20 mt-10">
+    <div className="flex flex-col justify-center items-center mb-20 mt-20">
       <img className="max-w-full w-40" src="avatar.png" alt="" />
-      <div className="flex flex-col justify-start items-start mt-5 max-w-xl">
+      <div className="flex flex-col justify-start items-start mt-5 md:mt-10 max-w-xl">
         <p className="text-xl text-gray-500 tracking-wider font-bold">
           HI I&apos;M LEO{" "}
         </p>

@@ -4,7 +4,7 @@ function ProjectItem({ data }) {
   return (
     <div>
       <div className="bg-gray-100 rounded-lg cursor-pointer relative ">
-        <Link href="/easyTime">
+        <Link href={data.url}>
           <img className="max-w-full  rounded-lg" alt="" src={data.thumb}></img>
         </Link>
         <div className="absolute top-2 left-2 md:top-4 md:left-4">

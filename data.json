@@ -3,30 +3,35 @@
     "id": "0",
     "title": "Ulinks",
     "category": "personal project",
-    "thumb": "ulinks-thumb.png"
+    "thumb": "ulinks-thumb.png",
+    "url": "/ulinks"
   },
   {
     "id": "1",
     "title": "Spacestagram",
     "category": "personal project",
-    "thumb": "space-thumb.png"
+    "thumb": "space-thumb.png",
+    "url": "/ulinks"
   },
   {
     "id": "2",
     "title": "Easy Time Complextiy",
     "category": "personal project",
-    "thumb": "easy-time-thumb.png"
+    "thumb": "easy-time-thumb.png",
+    "url": "/easyTime"
   },
   {
     "id": "3",
     "title": "Xchange",
     "category": "personal project",
-    "thumb": "xchange-thumb.png"
+    "thumb": "xchange-thumb.png",
+    "url": "/ulinks"
   },
   {
     "id": "4",
     "title": "Freedom Website Blocker",
     "category": "personal project",
-    "thumb": "freedom-thumb.png"
+    "thumb": "freedom-thumb.png",
+    "url": "/freedom"
   }
 ]

@@ -14,8 +14,8 @@ function ulinks() {
       <Nav />
 
       <div className="flex flex-col justify-center items-center m-auto max-w-screen-lg ">
-        <h1 className="mt-24 font-medium text-4xl text-center">Ulinks</h1>
-        <p className="mt-10 text-xl md:w-1/2 text-center">
+        <h1 className="mt-24 font-medium text-4xl text-center px-5">Ulinks</h1>
+        <p className="mt-10 text-xl md:w-1/2 text-center px-5">
           Ulinks is bio link platform where users could share their links,
           products, videos, and more on one page.
         </p>

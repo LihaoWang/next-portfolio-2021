@@ -13,8 +13,10 @@ function spacestagram() {
       </Head>
       <Nav />
       <div className="flex flex-col justify-center items-center m-auto max-w-screen-lg">
-        <h1 className="mt-24 font-medium text-4xl text-center">Spacestagram</h1>
-        <p className="mt-10 text-xl md:w-1/2 text-center">
+        <h1 className="mt-24 font-medium text-4xl text-center px-5">
+          Spacestagram
+        </h1>
+        <p className="mt-10 text-xl md:w-1/2 text-center px-5">
           Spacestagram displays stunning space pictures fetched from NASA APOD
           (Astronomy Picture of the Day) API. Additionally, users will be able
           to like and share the pictures easily.

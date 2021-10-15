@@ -14,10 +14,10 @@ function easyTime() {
       <Nav />
       {/* <img className="max-w-full" src="404.svg" alt="" /> */}
       <div className=" flex flex-col justify-center items-center m-auto max-w-screen-lg">
-        <h1 className="mt-24 font-medium text-4xl text-center">
+        <h1 className="mt-24 font-medium text-4xl text-center px-5">
           Easy Time Complexity
         </h1>
-        <p className="mt-10 text-xl md:w-1/2 text-center">
+        <p className="mt-10 text-xl md:w-1/2 text-center px-5">
           Use OpenAI to evaluate the complexity of your functions.
         </p>
         <GithubButton href="https://github.com/LihaoWang/easy-time-complexity" />

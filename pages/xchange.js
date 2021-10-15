@@ -13,8 +13,8 @@ function xchange() {
       </Head>
       <Nav />
       <div className=" flex flex-col justify-center items-center m-auto max-w-screen-lg">
-        <h1 className="mt-24 font-medium text-4xl text-center">Xchange</h1>
-        <p className="mt-10 text-xl md:w-1/2 text-center">
+        <h1 className="mt-24 font-medium text-4xl text-center px-5">Xchange</h1>
+        <p className="mt-10 text-xl md:w-1/2 text-center px-5">
           Xchange is a unique currency converter app that displays up to 170
           currency exchange rates on one page. Users can easily copy the
           converted results, for maximum efficiency.

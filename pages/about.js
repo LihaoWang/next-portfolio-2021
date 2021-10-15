@@ -13,7 +13,7 @@ function about() {
             <p className="mt-2 text-gray-600 font-medium text-xl">
               I am a Computer Science student at NYU
             </p>
-            <p className="md:mt-5 text-gray-600 text-xl mt-3">
+            <p className="md:mt-5 text-gray-600 text-l mt-3">
               My passion for creating aesthetic and intuitive products
               originates from the desire to impact and help others. I am always
               motivated to work with talented people and create meaningful
@@ -23,12 +23,12 @@ function about() {
               <a href="#">Get my resume</a>
             </div>
           </div>
-          <div className="md:w-1/3 md:px-5 p-10">
+          <div className="w-5/6 md:w-1/3 md:px-5 p-10 m-auto">
             <img className="rounded-full" src="me.png" />
           </div>
         </div>
         <div className="w-full px-4 lg:px-8  md:mt-20">
-          <h1 className="text-3xl md:text-4xl mt-12 font-medium">
+          <h1 className="text-3xl md:text-4xl md:mt-12 font-medium">
             Outside of Work
           </h1>
           <div className="mt-5 mb-10">

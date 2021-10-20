@@ -5,16 +5,16 @@ function Hero() {
     <div className="flex flex-col justify-center items-center mb-20 mt-20">
       <img className="max-w-full w-40" src="avatar.png" alt="" />
       <div className="flex flex-col justify-start items-start mt-5 md:mt-10 max-w-xl">
-        <p className="text-xl text-gray-500 tracking-wider font-bold">
+        <p className="text-xl text-gray-500 tracking-wider font-bold dark:text-gray-400">
           HI I&apos;M LEO{" "}
         </p>
-        <h1 className="text-4xl font-medium  ">
+        <h1 className="text-4xl font-medium  dark:text-white">
           Software Engineer / Web Designer
         </h1>
-        <h1 className="text-4xl font-medium ">
+        <h1 className="text-4xl font-medium dark:text-white">
           Second-year Master&apos;s at NYU
         </h1>
-        <p className="text-xl text-gray-500 ">
+        <p className="text-xl text-gray-500 dark:text-gray-400">
           I specialize in developing minimal web applications that solves real
           world problems{" "}
         </p>

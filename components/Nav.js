@@ -7,8 +7,8 @@ function Nav() {
   const updateTheme = useUpdateTheme();
   return (
     <div>
-      <nav className="">
-        <div className="max-w-screen-lg mx-auto px-4 lg:px-8 dark:text-white">
+      <nav className="dark:bg-black">
+        <div className="max-w-screen-lg mx-auto px-4 lg:px-8 dark:text-white ">
           <div className="relative flex items-center justify-between h-16">
             <Link href="/">
               <p className="md:text-xl font-medium hover:text-blue-400 cursor-pointer">

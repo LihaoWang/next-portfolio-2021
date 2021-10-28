@@ -27,6 +27,7 @@ function freedom() {
           <img className="mb-5" src="images/freedom-3.jpg" />
           <img src="images/freedom-2.png" />
         </div>
+
         <Footer href="/freedom" />
       </div>
     </div>

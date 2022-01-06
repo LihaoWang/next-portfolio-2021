@@ -20,7 +20,7 @@ function Footer({ href }) {
             <span className="mx-1" role="img" aria-label="love">
               ❤️
             </span>
-            by Leo. 2021.
+            by Leo. 2022.
           </p>
           <div className="flex flex-row text-3xl text-gray-400 mt-5 dark:text-gray-200">
             <a href="https://github.com/LihaoWang">

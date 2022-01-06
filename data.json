@@ -1,34 +1,41 @@
 [
   {
     "id": "0",
+    "title": "Xchange 2.0",
+    "category": "personal project",
+    "thumb": "xchange2-thumb.png",
+    "url": "/xchange-2"
+  },
+  {
+    "id": "1",
     "title": "Ulinks",
     "category": "personal project",
     "thumb": "ulinks-thumb.png",
     "url": "/ulinks"
   },
   {
-    "id": "1",
+    "id": "2",
     "title": "Spacestagram",
     "category": "personal project",
     "thumb": "space-thumb.png",
     "url": "/spacestagram"
   },
   {
-    "id": "2",
+    "id": "3",
     "title": "Easy Time Complextiy",
     "category": "personal project",
     "thumb": "easy-time-thumb.png",
     "url": "/easyTime"
   },
   {
-    "id": "3",
+    "id": "4",
     "title": "Xchange",
     "category": "personal project",
     "thumb": "xchange-thumb.png",
     "url": "/xchange"
   },
   {
-    "id": "4",
+    "id": "5",
     "title": "Freedom Website Blocker",
     "category": "personal project",
     "thumb": "freedom-thumb.png",

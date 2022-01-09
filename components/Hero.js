@@ -4,9 +4,9 @@ function Hero() {
   return (
     <div className="flex flex-col justify-center mb-10 md:mb-20 mt-20 relative">
       <motion.div
-        initial={{ opacity: 0, x: -100 }}
-        animate={{ opacity: 1, x: 0 }}
-        transition={{ duration: 1, ease: "easeInOut" }}
+        initial={{ opacity: 0, y: -100 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 1, ease: "easeInOut", delay: 0.5 }}
         className="w-20 md:w-28 "
       >
         <img src="coding.png" alt="" />

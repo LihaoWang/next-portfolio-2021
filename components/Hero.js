@@ -1,11 +1,22 @@
 import React from "react";
-
+import { motion } from "framer-motion";
 function Hero() {
   return (
-    <div className="flex flex-col justify-center  mb-10 md:mb-20 mt-20 relative">
-      {/* <img className="w-40  " src="me.gif" alt="" /> */}
-
-      <div className="z-10 flex flex-col justify-center  mt-5 md:mt-10 ">
+    <div className="flex flex-col justify-center mb-10 md:mb-20 mt-20 relative">
+      <motion.div
+        initial={{ opacity: 0, x: -100 }}
+        animate={{ opacity: 1, x: 0 }}
+        transition={{ duration: 1, ease: "easeInOut" }}
+        className="w-20 md:w-28 "
+      >
+        <img src="coding.png" alt="" />
+      </motion.div>
+      <motion.div
+        initial={{ opacity: 0, y: 50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 1, ease: "easeInOut", delay: 0.5 }}
+        className="flex flex-col justify-center  mt-5 md:mt-10 "
+      >
         <p className="text-3xl text-gray-500 tracking-wider font-bold dark:text-gray-400">
           HI I&apos;M LEO{" "}
         </p>
@@ -22,7 +33,7 @@ function Hero() {
           I specialize in developing minimal web applications that solves real
           world problems{" "}
         </p>
-      </div>
+      </motion.div>
     </div>
   );
 }

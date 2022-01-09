@@ -8,7 +8,7 @@ function Projects() {
     <div>
       <div className="grid grid-cols-1 md:grid-cols-2  my-10  gap-5">
         {projectsList.map((data, key) => {
-          return <ProjectItem data={data} key={key} delay={key / 10} />;
+          return <ProjectItem data={data} key={key} delay={0.2 + key / 10} />;
         })}
       </div>
     </div>

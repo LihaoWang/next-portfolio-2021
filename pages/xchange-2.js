@@ -24,7 +24,10 @@ function xchange() {
           <GithubButton href="https://github.com/LihaoWang/crypto-next-app" />
           <DemoButton href="https://crypto.x-change.xyz" />
 
-          <img className="mb-2" src="images/xchange2-1.png" />
+          <img className="" src="images/xchange2-1.png" />
+          <img className="mb-3" src="images/xchange2-4.png" />
+          <img className="" src="images/xchange2-2.png" />
+          <img className="" src="images/xchange2-3.png" />
         </div>
         <Footer href="/xchange-2" />
       </div>

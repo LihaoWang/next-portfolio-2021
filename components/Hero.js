@@ -30,7 +30,7 @@ function Hero() {
           Second-year Master&apos;s at NYU
         </h1> */}
         <p className="md:max-w-2xl text-2xl text-gray-500 mt-4 dark:text-gray-400">
-          I specialize in developing minimal web applications that solves real
+          I specialize in developing minimal web applications that solve real
           world problems{" "}
         </p>
       </motion.div>
